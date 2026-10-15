@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color primary
+color purple_200
+color purple_500
+color purple_700
+color surface
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_copy
+id btn_new_quote
+id btn_share
+id btn_speak
+id tv_header
+id tv_quote_author
+id tv_quote_category
+id tv_quote_text
+id tv_sub
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.QuoteVibe
